@@ -12,5 +12,6 @@ I create things—mostly digital
 ## Projects
 
 - [Proximity Detector with Arduino](https://www.linkedin.com/posts/fitrahtur-rahman_arduino-activity-6651742524983648256-rK4q)
+- [Musical Modes](https://modes.vyonizr.com/)
 - [iTunes HD Album Artwork Finder](https://iaf.vyonizr.com/)
 - [Cat Facts Generator](https://vyonizr-cat-facts.herokuapp.com/)
