@@ -1,4 +1,6 @@
-I create things—mostly digital
+I create stuff—mostly digital
+
+[![Codewars](https://www.codewars.com/users/vyonizr/badges/micro)](https://www.codewars.com/users/vyonizr)
 
 ## Links
 
@@ -11,8 +13,8 @@ I create things—mostly digital
 
 ## Projects
 
-- [Ceritakan](https://ceritakan.vyonizr.com/)
+- [Ceritakan](https://ceritakan.vyonizr.com/): A simple card game containing ice-breaking questions from various topics
+- [Musical Modes](https://modes.vyonizr.com/): A web app to show playable modes chords based on the selected root key
+- [iTunes HD Album Artwork Finder](https://iaf.vyonizr.com/): A high-quality artwork downloader based on iTunes library
 - [Proximity Detector with Arduino](https://www.linkedin.com/posts/fitrahtur-rahman_arduino-activity-6651742524983648256-rK4q)
-- [Musical Modes](https://modes.vyonizr.com/)
-- [iTunes HD Album Artwork Finder](https://iaf.vyonizr.com/)
-- [Cat Facts Generator](https://vyonizr-cat-facts.herokuapp.com/)
+- [Random Cat Facts](https://vyonizr-cat-facts.herokuapp.com/): A cat facts generator
